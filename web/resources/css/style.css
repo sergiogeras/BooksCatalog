@@ -1,0 +1,24 @@
+
+.main{
+    margin-top: 50px;
+    max-width: 1000px;
+
+}
+
+.buttons{
+    margin: 10px;
+    padding-left: 8px;
+    text-align: right;
+}
+
+.author-table td {
+    text-align: center;
+}
+
+.tables tr td {
+    cursor: pointer;
+}
+
+.error{
+    color: red;
+}
